@@ -5,7 +5,7 @@ A Go library for reading configuration settings from JSON files.
 ## Installation
 
 ``` bash
-$ go get github.com/l3x/jsoncfgo
+$ go get github.com/go-goodies/go_jsoncfg
 ```
 
 ## Usage
@@ -53,7 +53,7 @@ import (
 	"fmt"
 	"time"
 	"log"
-	"github.com/l3x/jsoncfgo"
+	"github.com/go-goodies/go_jsoncfg"
 )
 
 func main() {
@@ -131,7 +131,7 @@ Process finished with exit code 1
 
 ## Notes
 
-See interface documenation at [package jsoncfgo] (http://godoc.org/github.com/l3x/jsoncfgo)
+See interface documenation at [package jsoncfgo] (http://godoc.org/github.com/go-goodies/go_jsoncfg)
 
 See companion article at [jsoncfgo - A JSON Config File Reader] (http://l3x.github.io/golang-code-examples/2014/07/25/jsoncfgo-config-file-reader-advanced.html)
 
